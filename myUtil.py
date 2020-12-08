@@ -33,8 +33,3 @@ def isValid(domainInstance):
 			return False
 
 	return True
-
-
-
-def foo():
-	print("foo")

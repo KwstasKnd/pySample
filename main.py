@@ -32,12 +32,3 @@ def main(maxN = 8):
 
 
 main(20)
-
-
-# added via Git
-# also added via Git
-
-# added via hub !!!
-
-# >> via Git
-# >> via Git
