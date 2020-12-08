@@ -38,5 +38,3 @@ def rec_hanoi(columns,N,From,To):
 	moves3 = rec_hanoi(columns,N-1,Other,To)
 	
 	return moves1 + moves2 + moves3
-
-# added by hub
