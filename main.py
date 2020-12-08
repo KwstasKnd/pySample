@@ -1,4 +1,4 @@
-from util import *
+from myUtil import *
 from hanoi import *
 
 
